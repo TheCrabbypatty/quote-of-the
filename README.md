@@ -1,2 +1,9 @@
-# quote-of-the
-A GitHub Actions-powered quote-of-the-"day" bot that updates a quote automatically every 15 minutes.
+# quote-of-the-15-minutes
+<----------------------------------------------------------------------------------->
+<!--QUOTE_START -->
+> Loading quote...
+
+_Last updated: never_
+<!-- QUOTE_END -->
+<----------------------------------------------------------------------------------->
+
