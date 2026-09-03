@@ -1,7 +1,7 @@
 ## Quote
 
 <!-- QUOTE_START -->
-> Success is the sum of small efforts repeated day in and day out.
+> Don’t let yesterday take up too much of today.
 
-_Last updated: 2026-09-02 22:26 UTC_
+_Last updated: 2026-09-03 00:25 UTC_
 <!-- QUOTE_END -->
