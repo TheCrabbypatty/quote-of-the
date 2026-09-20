@@ -1,7 +1,7 @@
 ## Quote
 
 <!-- QUOTE_START -->
-> The best way to get started is to quit talking and begin doing.
+> Success is the sum of small efforts repeated day in and day out.
 
-_Last updated: 2026-09-20 00:27 UTC_
+_Last updated: 2026-09-20 05:07 UTC_
 <!-- QUOTE_END -->
