@@ -1,7 +1,7 @@
 ## Quote
 
 <!-- QUOTE_START -->
-> It’s not whether you get knocked down, it’s whether you get up.
+> Don’t let yesterday take up too much of today.
 
-_Last updated: 2026-09-23 19:53 UTC_
+_Last updated: 2026-09-23 22:29 UTC_
 <!-- QUOTE_END -->
