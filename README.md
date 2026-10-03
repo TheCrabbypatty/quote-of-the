@@ -1,7 +1,7 @@
 ## Quote
 
 <!-- QUOTE_START -->
-> The best way to get started is to quit talking and begin doing.
+> If you are working on something exciting, it will keep you motivated.
 
-_Last updated: 2026-10-03 14:53 UTC_
+_Last updated: 2026-10-03 18:21 UTC_
 <!-- QUOTE_END -->
