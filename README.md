@@ -1,7 +1,7 @@
 ## Quote
 
 <!-- QUOTE_START -->
-> If you are working on something exciting, it will keep you motivated.
+> Success is the sum of small efforts repeated day in and day out.
 
-_Last updated: 2026-10-07 16:15 UTC_
+_Last updated: 2026-10-07 21:19 UTC_
 <!-- QUOTE_END -->
