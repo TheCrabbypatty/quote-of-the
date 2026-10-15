@@ -1,7 +1,7 @@
 ## Quote
 
 <!-- QUOTE_START -->
-> The best way to get started is to quit talking and begin doing.
+> It’s not whether you get knocked down, it’s whether you get up.
 
-_Last updated: 2026-10-15 05:11 UTC_
+_Last updated: 2026-10-15 09:51 UTC_
 <!-- QUOTE_END -->
