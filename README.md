@@ -1,7 +1,7 @@
 ## Quote
 
 <!-- QUOTE_START -->
-> Success is the sum of small efforts repeated day in and day out.
+> It’s not whether you get knocked down, it’s whether you get up.
 
-_Last updated: 2026-10-19 19:27 UTC_
+_Last updated: 2026-10-19 22:58 UTC_
 <!-- QUOTE_END -->
