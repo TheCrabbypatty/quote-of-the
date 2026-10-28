@@ -1,7 +1,7 @@
 ## Quote
 
 <!-- QUOTE_START -->
-> It’s not whether you get knocked down, it’s whether you get up.
+> If you are working on something exciting, it will keep you motivated.
 
-_Last updated: 2026-10-28 19:09 UTC_
+_Last updated: 2026-10-28 23:08 UTC_
 <!-- QUOTE_END -->
