@@ -1,7 +1,7 @@
 ## Quote
 
 <!-- QUOTE_START -->
-> Don’t let yesterday take up too much of today.
+> The best way to get started is to quit talking and begin doing.
 
-_Last updated: 2026-10-30 17:07 UTC_
+_Last updated: 2026-10-30 21:26 UTC_
 <!-- QUOTE_END -->
