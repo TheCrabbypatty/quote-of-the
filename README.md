@@ -1,7 +1,7 @@
 ## Quote
 
 <!-- QUOTE_START -->
-> If you are working on something exciting, it will keep you motivated.
+> Don’t let yesterday take up too much of today.
 
-_Last updated: 2026-11-24 21:29 UTC_
+_Last updated: 2026-11-25 04:28 UTC_
 <!-- QUOTE_END -->
